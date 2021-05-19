@@ -1,0 +1,13 @@
+### Multiple processes termination:
+
+In multiple process termination two or more processes are terminated at once.
+
+       taskkill /f /pid (one pid) /pid (other pid)
+
+![Screenshot (600)](https://user-images.githubusercontent.com/76787422/118845125-21ddb200-b8e9-11eb-95c4-6d54668b928b.png)
+
+       taskkill /f /im (one im) /im (other im)
+       
+![Screenshot (598)](https://user-images.githubusercontent.com/76787422/118845269-420d7100-b8e9-11eb-97fc-634efa38f1e8.png)
+
+cheers,we completed :blush: :blush: 
