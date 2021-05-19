@@ -11,6 +11,7 @@ In this assignment we gonna terminate a process with commands.ok,let's dive into
 
 Move to details on the top ,you can able to see all the details about the current running processes.
 
+
 ![Screenshot (578)](https://user-images.githubusercontent.com/76787422/118834075-957ac180-b8df-11eb-99d8-a37e0a6012ca.png)
 
 ### Terminate a specific process using Windows PowerShell:
