@@ -7,6 +7,9 @@
  
 ![large file](https://user-images.githubusercontent.com/76787422/119223378-b1b47380-bb16-11eb-8261-fe9947d4f971.png) 
 
+![Screenshot (613)](https://user-images.githubusercontent.com/76787422/119223569-df4dec80-bb17-11eb-8b95-325a0a7f71b6.png)
+
+
 ## Update_vlc:
 ![upgrade_vlc](https://user-images.githubusercontent.com/76787422/119223399-df012180-bb16-11eb-8f53-8ade8460834a.png)
 
